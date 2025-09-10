@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2025-09-10 06:26:24,http://218.241.192.50:8808/rtp/239.3.1.129:8008
+2025-09-10 09:49:42,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 
 📺央视频道,#genre#
 CCTV-1,http://218.241.192.50:8808/rtp/239.3.1.129:8008
-CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
+CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-2,http://124.116.183.146:9901/tsfile/live/0002_1.m3u8
 CCTV-3,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
 CCTV-3,http://218.241.192.50:8808/rtp/239.3.1.172:8001
 CCTV-4,http://218.241.192.50:8808/rtp/239.3.1.105:8092
@@ -23,11 +24,13 @@ CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习�
 CCTV-10,http://218.241.192.50:8808/rtp/239.3.1.63:8116
 CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】
 CCTV-11,http://218.241.192.50:8808/rtp/239.3.1.152:8120
-CCTV-12,http://8.138.7.223/tv/mgitv.php?id=62
+CCTV-11,http://124.116.183.146:9901/tsfile/live/0011_1.m3u8
+CCTV-12,http://124.116.183.146:9901/tsfile/live/0012_1.m3u8
 CCTV-13,http://218.241.192.50:8808/rtp/239.3.1.124:8128
 CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
 CCTV-14,http://218.241.192.50:8808/rtp/239.3.1.65:8132
 CCTV-15,http://218.241.192.50:8808/rtp/239.3.1.153:8136
+CCTV-15,http://124.116.183.146:9901/tsfile/live/0015_1.m3u8
 CCTV-16,http://218.241.192.50:8808/rtp/239.3.1.184:8001
 CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 
@@ -37,13 +40,13 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 广东卫视,http://218.241.192.50:8808/rtp/239.3.1.142:8048
 浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 浙江卫视,http://218.241.192.50:8808/rtp/239.3.1.137:8036
+浙江卫视,http://124.116.183.146:9901/tsfile/live/0124_1.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://218.241.192.50:8808/rtp/239.3.1.132:8012
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://218.241.192.50:8808/rtp/239.3.1.138:8044
 黑龙江卫视,http://218.241.192.50:8808/rtp/239.3.1.133:8016
 安徽卫视,http://218.241.192.50:8808/rtp/239.3.1.211:8064
-重庆卫视,http://222.218.122.23:8188/udp/239.81.0.47:4056
 重庆卫视,http://218.241.192.50:8808/rtp/239.3.1.122:8160
 东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 东方卫视,http://218.241.192.50:8808/rtp/239.3.1.136:8032
@@ -51,15 +54,14 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 江苏卫视,http://218.241.192.50:8808/rtp/239.3.1.135:8028
+江苏卫视,http://124.116.183.146:9901/tsfile/live/0127_1.m3u8
 江西卫视,http://218.241.192.50:8808/rtp/239.3.1.123:8164
 辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 辽宁卫视,http://218.241.192.50:8808/rtp/239.3.1.210:8056
-陕西卫视,http://stream.snrtv.com/sxbc-star-myFNVZ.m3u8
+山东卫视,http://124.116.183.146:9901/tsfile/live/0131_1.m3u8
 深圳卫视,http://218.241.192.50:8808/rtp/239.3.1.134:8020
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 天津卫视,http://218.241.192.50:8808/rtp/239.3.1.141:1234
-新疆卫视,http://222.218.122.23:8188/udp/239.81.0.46:4056
-云南卫视,http://222.218.122.23:8188/udp/239.81.0.45:4056
 
 ☘️广东频道,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e4115b603801e53725e7debad2d4f5da&txTime=18dcb681fec
@@ -74,10 +76,10 @@ Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -89,12 +91,23 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森电影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 
 🪁动画频道,#genre#
 少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
+少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
