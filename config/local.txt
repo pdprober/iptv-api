@@ -2,3 +2,9 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
+汕头生活,https://stream1.freetv.fun/shan-tou-sheng-huo-1.m3u8
+汕头生活,https://stream1.freetv.fun/33ddef0b15bf633541866eb53fbc19a1a0b29368b37cec411a766dbb2f5dbca1.m3u8
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-14.m3u8
+汕头综合,https://stream1.freetv.fun/3fac71f5d9f5b0dfd2dbe4a65192ca7e86c19ab2fe68ee0d5bea9efbd2f1dac2.m3u8
+汕头综合,https://stream1.freetv.fun/b6e72f9b5850337e3e4c69299c11d780f790e78e810f7a43bc6322ba01105a13.ctv
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-13.ctv
